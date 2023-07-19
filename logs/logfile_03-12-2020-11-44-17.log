@@ -1,0 +1,32 @@
+2020-12-03 11:44:17 INFO  :44 - Browser >> Launch >> CHROME>> FIREFOX >> IE
+2020-12-03 11:44:29 INFO  :73 - Vtiger CRM >> http://localhost:8888/index.php
+2020-12-03 11:44:58 INFO  :300 - GET TEXT
+2020-12-03 11:44:59 INFO  :208 - Failed Take ScreenShort
+2020-12-03 11:44:59 INFO  :209 - Failed Take ScreenShort
+2020-12-03 11:45:00 INFO  :217 - PASS failedTakeScreenshortD:\SELENIUM WITH JAVA PRACTICE AGAIN\Bdd_Framework/Reports/screenshort/_getText 03-12-2020 11-45-0.jpg
+2020-12-03 11:45:00 ERROR :310 - Error while getTextinvalid selector: Unable to locate an element with the xpath expression Login to Vtiger CRM because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'Login to Vtiger CRM' is not a valid XPath expression.
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B8E2L48', ip: '192.168.43.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49762}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c9219de359ef0dd6147332f34eefa7e8
+*** Element info: {Using=xpath, value=Login to Vtiger CRM}::com.aventstack.extentreports.MediaEntityModelProvider@46d8f407
+2020-12-03 11:45:01 INFO  :44 - Browser >> Launch >> CHROME>> FIREFOX >> IE
+2020-12-03 11:45:05 INFO  :73 - Vtiger CRM >> http://localhost:8888/index.php
+2020-12-03 11:45:20 INFO  :300 - GET TEXT
+2020-12-03 11:45:20 INFO  :208 - Failed Take ScreenShort
+2020-12-03 11:45:20 INFO  :209 - Failed Take ScreenShort
+2020-12-03 11:45:21 INFO  :217 - PASS failedTakeScreenshortD:\SELENIUM WITH JAVA PRACTICE AGAIN\Bdd_Framework/Reports/screenshort/_getText 03-12-2020 11-45-21.jpg
+2020-12-03 11:45:21 ERROR :310 - Error while getTextinvalid selector: Unable to locate an element with the xpath expression Login to Vtiger CRM because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'Login to Vtiger CRM' is not a valid XPath expression.
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B8E2L48', ip: '192.168.43.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: aacbbf3cfc245252a4a2c863306bf37f
+*** Element info: {Using=xpath, value=Login to Vtiger CRM}::com.aventstack.extentreports.MediaEntityModelProvider@ea9e141

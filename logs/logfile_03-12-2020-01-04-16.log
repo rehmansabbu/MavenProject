@@ -1,0 +1,8 @@
+2020-12-03 13:04:16 INFO  :43 - Browser >> Launch >> CHROME>> FIREFOX >> IE
+2020-12-03 13:04:21 INFO  :72 - Vtiger CRM >> http://localhost:8888/index.php
+2020-12-03 13:04:34 INFO  :300 - GET TEXT
+2020-12-03 13:04:34 INFO  :304 - Locator : //h3[contains(text(),'Login to Vtiger CRM')]actual value : Login to Vtiger CRM
+2020-12-03 13:05:23 INFO  :43 - Browser >> Launch >> CHROME>> FIREFOX >> IE
+2020-12-03 13:05:25 INFO  :72 - Vtiger CRM >> http://localhost:8888/index.php
+2020-12-03 13:05:35 INFO  :300 - GET TEXT
+2020-12-03 13:05:35 INFO  :304 - Locator : //h3[contains(text(),'Login to Vtiger CRM')]actual value : Login to Vtiger CRM
